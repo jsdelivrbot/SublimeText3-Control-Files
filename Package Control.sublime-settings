@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Compass",
+		"Emmet",
+		"HTML5",
+		"Jade",
+		"Jade Build",
+		"Jade Snippets",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SFTP",
+		"Sublimerge Pro",
+		"Theme - Brogrammer",
+		"Theme - Glacier",
+		"Theme - Tech49"
+	],
+	"repository_channels":
+	[
+		"http://sublime.wbond.net/repositories.json"
+	]
+}
