@@ -10,7 +10,6 @@
 		"BracketHighlighter",
 		"Compass",
 		"ConvertToUTF8",
-		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"Emmet",
 		"HTML5",
@@ -25,13 +24,13 @@
 		"SassBeautify",
 		"SFTP",
 		"Sublime Files",
-		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-json",
 		"Sublimerge Pro",
 		"SublimeServer",
 		"Theme - Brogrammer",
 		"Theme - Glacier",
+		"Theme - itg.flat",
 		"Theme - Tech49"
 	],
 	"repository_channels":

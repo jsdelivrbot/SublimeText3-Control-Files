@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
 	"draw_white_space": "all",
 	"font_size": 11.0,
 	"highlight_line": true,
@@ -12,7 +12,7 @@
 	],
 	"line_padding_top": 5,
 	"tab_size": 2,
-	"theme": "Tech49.sublime-theme",
+	"theme": "Glacier.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
