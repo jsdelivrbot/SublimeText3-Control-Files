@@ -6,9 +6,9 @@
 	"ignored_packages":
 	[
 		"jQuery",
-		"OmniMarkupPreviewer",
 		"Sass",
-		"Vintage"
+		"Vintage",
+		"OmniMarkupPreviewer"
 	],
 	"line_padding_top": 5,
 	"tab_size": 2,

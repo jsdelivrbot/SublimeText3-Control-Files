@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<meta property="og:title" content="${1:ページタイトル}" />
+<meta property="og:type" content="websiteまたはarticle" />
+<meta property="og:url" content="ページのURL（http://から指定）" />
+<meta property="og:site_name" content="サイト名" />
+<meta property="og:description" content="ページの説明" />
+<meta property="og:image" content="画像のURL（http://から指定）" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="fb:app_id" content="XXXXXXXXXXXXXXXX" />
+<meta property="fb:page_id" content="XXXXXXXXXXXXXXXX" />
+<meta property="fb:admins" content="XXXXXXXXXXXXXXXX" />]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ogp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

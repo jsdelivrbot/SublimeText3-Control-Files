@@ -13,11 +13,14 @@
 		"Dotfiles Syntax Highlighting",
 		"Emmet",
 		"Emmet Css Snippets",
+		"HTML Snippets",
 		"HTML5",
+		"HTMLEntity Snippets",
 		"Jade",
 		"Jade Build",
 		"Jade Snippets",
 		"List stylesheet variables",
+		"LiveReload",
 		"Package Control",
 		"Sass",
 		"SASS Build",
@@ -26,6 +29,7 @@
 		"SCSS",
 		"SFTP",
 		"Sublime Files",
+		"SublimeCodeIntel",
 		"SublimeLinter-csslint",
 		"SublimeLinter-json",
 		"Sublimerge Pro",
@@ -34,7 +38,8 @@
 		"Theme - Brogrammer",
 		"Theme - Glacier",
 		"Theme - itg.flat",
-		"Theme - Tech49"
+		"Theme - Tech49",
+		"Three.js Autocomplete"
 	],
 	"repository_channels":
 	[
