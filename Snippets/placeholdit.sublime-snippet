@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=${1:no}">]]></content>
+<img src="http://placehold.it/${1:150}x${2:150}/${3:bgcolor}/${4:textcolor}&text=${5:text}">
+]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>S_vp</tabTrigger>
+	<tabTrigger>S_ph</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

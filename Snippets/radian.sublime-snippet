@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var radian = Math.atan2(y, x) / (Math.PI / 180);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>S_radian</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

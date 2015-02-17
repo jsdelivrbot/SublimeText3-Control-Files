@@ -1,0 +1,49 @@
+<snippet>
+	<content><![CDATA[
+/** @namespace */
+var user_agent = {
+	/**
+	 * ユーザーエージェント情報を返す
+	 * @property is_ie {boolean} IE判定
+	 * @property ie_version {int} IEバージョン判定
+	 * @property tablet {boolean} タブレット判定
+	 * @property smartphone {boolean} スマートフォン判定
+	 */
+	init: function(){
+		//ユーザーエージェントの判定
+		var userAgent = navigator.userAgent,
+				ie_version = userAgent.match(/MSIE ../g),
+				tablet,sp;
+
+		// console.log(userAgent);
+
+		//タブレット判定
+		if(userAgent.match(/iPod/) || userAgent.match(/iPhone/) ||  userAgent.match(/Android/) && userAgent.match(/Mobile/)){
+			sp = true;
+		}else{
+			sp = false;
+		}
+
+		//スマホ判定
+		if(userAgent.match(/iPad/) || userAgent.match(/Android/) && !userAgent.match(/Mobile/)){
+			tablet = true;
+		}else{
+			tablet = false;
+		}
+
+		//IEのバージョン判定
+		ie_version = String(ie_version).match(/\d/g);
+
+		this.is_ie =  userAgent.match(/MSIE/) ? true : false;
+		this.ie_version = ie_version;
+		this.tablet = tablet;
+		this.smartphone = sp;
+	}
+}
+user_agent.init();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>S_UA</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
