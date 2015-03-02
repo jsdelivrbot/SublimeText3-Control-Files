@@ -5,10 +5,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"jQuery",
-		"Sass",
 		"Vintage",
-		"OmniMarkupPreviewer"
+		"jQuery",
+		"Sass"
 	],
 	"line_padding_top": 5,
 	"tab_size": 2,
