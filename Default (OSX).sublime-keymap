@@ -3,5 +3,9 @@
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
 	{ "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
-	{ "keys": ["alt+m"], "command": "markdown_preview"}
+	{ "keys": ["alt+m"], "command": "markdown_preview"},
+
+	// swap the keybindings for paste and paste_and_indent
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" }
 ]
