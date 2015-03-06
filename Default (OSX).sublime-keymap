@@ -7,5 +7,15 @@
 
 	// swap the keybindings for paste and paste_and_indent
 	{ "keys": ["super+v"], "command": "paste_and_indent" },
-	{ "keys": ["super+shift+v"], "command": "paste" }
+	{ "keys": ["super+shift+v"], "command": "paste" },
+
+	// goto css
+	{
+		"keys": ["super+shift+right"], "command": "goto_css_declaration",
+		"args": {"goto": "next"}
+	},
+	{
+		"keys": ["super+shift+left"],  "command": "goto_css_declaration",
+		"args": {"goto": "prev"}
+	}
 ]
