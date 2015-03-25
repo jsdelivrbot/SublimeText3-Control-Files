@@ -9,6 +9,7 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"cdnjs",
+		"ColorPicker",
 		"Compass",
 		"ConvertToUTF8",
 		"Dotfiles Syntax Highlighting",
@@ -16,7 +17,6 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"HTML Snippets",
-		"HTML5",
 		"HTMLEntity Snippets",
 		"Jade",
 		"Jade Build",
@@ -42,8 +42,7 @@
 		"Theme - Brogrammer",
 		"Theme - Glacier",
 		"Theme - itg.flat",
-		"Theme - Tech49",
-		"Three.js Autocomplete"
+		"Theme - Tech49"
 	],
 	"repository_channels":
 	[

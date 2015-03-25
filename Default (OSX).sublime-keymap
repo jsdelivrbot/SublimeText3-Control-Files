@@ -10,12 +10,12 @@
 	{ "keys": ["super+shift+v"], "command": "paste" },
 
 	// goto css
-	{
-		"keys": ["super+shift+right"], "command": "goto_css_declaration",
-		"args": {"goto": "next"}
-	},
-	{
-		"keys": ["super+shift+left"],  "command": "goto_css_declaration",
-		"args": {"goto": "prev"}
-	}
+	// {
+	// 	"keys": ["super+shift+right"], "command": "goto_css_declaration",
+	// 	"args": {"goto": "next"}
+	// },
+	// {
+	// 	"keys": ["super+shift+left"],  "command": "goto_css_declaration",
+	// 	"args": {"goto": "prev"}
+	// }
 ]
