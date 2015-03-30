@@ -1,6 +1,7 @@
 {
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -42,7 +43,8 @@
 		"Theme - Brogrammer",
 		"Theme - Glacier",
 		"Theme - itg.flat",
-		"Theme - Tech49"
+		"Theme - Tech49",
+		"Themes Menu Switcher"
 	],
 	"repository_channels":
 	[
