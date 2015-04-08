@@ -1,7 +1,6 @@
 {
 	"in_process_packages":
 	[
-		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -39,6 +38,7 @@
 		"SublimeLinter-json",
 		"Sublimerge Pro",
 		"SublimeServer",
+		"Super Calculator",
 		"Syntax Highlighting for Sass",
 		"Theme - Brogrammer",
 		"Theme - Glacier",

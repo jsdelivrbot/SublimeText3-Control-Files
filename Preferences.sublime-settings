@@ -5,14 +5,13 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Sass",
 		"jQuery",
-		"SublimeCodeIntel"
+		"Vintage"
 	],
 	"line_padding_top": 5,
 	"tab_size": 2,
 	"theme": "Glacier.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true
 }
