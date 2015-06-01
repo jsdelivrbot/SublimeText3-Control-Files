@@ -7,7 +7,7 @@ var requestAnimationFrame = window.requestAnimationFrame ||
 window.requestAnimationFrame = requestAnimationFrame;
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>S_RQAF</tabTrigger>
+	<tabTrigger>js_raf</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.js</scope>
+	<!-- <scope>source.js</scope> -->
 </snippet>

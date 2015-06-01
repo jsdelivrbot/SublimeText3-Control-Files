@@ -3,7 +3,7 @@
 <script src="https://code.jquery.com/jquery-${1:2.1.3}.min.js"></script>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>S_jq</tabTrigger>
+	<tabTrigger>cdn_jq</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html</scope>
+	<!-- <scope>text.html</scope> -->
 </snippet>
