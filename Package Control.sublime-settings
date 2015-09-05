@@ -16,6 +16,7 @@
 		"eCSStractor",
 		"Emmet",
 		"Emmet Css Snippets",
+		"FindKeyConflicts",
 		"HTML Snippets",
 		"HTMLEntity Snippets",
 		"Jade",
@@ -29,9 +30,11 @@
 		"Sass",
 		"SASS Build",
 		"SASS Snippets",
+		"Sass-Director",
 		"SassBeautify",
 		"SCSS",
 		"SFTP",
+		"Stylus",
 		"Sublime Files",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -50,7 +53,8 @@
 	],
 	"repositories":
 	[
-		"https://github.com/airosB/sublime-multi-number-input.git"
+		"https://github.com/airosB/sublime-multi-number-input.git",
+		"https://github.com/MaciekBaron/sublime-list-stylesheet-vars.git"
 	],
 	"repository_channels":
 	[

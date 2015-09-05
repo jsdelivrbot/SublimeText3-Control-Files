@@ -19,7 +19,7 @@
                 "@disable": false,
                 "args": [
                     "--config",
-                    "/Users/maboroshi_kondou/.jshintrc"
+                    "/Users/maboroshi_kondou/.jshintrc_omni"
                 ],
                 "excludes": []
             },
