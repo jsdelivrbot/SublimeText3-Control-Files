@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -16,11 +17,13 @@
 		"eCSStractor",
 		"Emmet",
 		"Emmet Css Snippets",
+		"FindKeyConflicts",
 		"HTML Snippets",
 		"HTMLEntity Snippets",
 		"Jade",
 		"Jade Build",
 		"Jade Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"List stylesheet variables",
 		"LiveReload",
 		"Markdown Extended",
@@ -29,12 +32,16 @@
 		"Sass",
 		"SASS Build",
 		"SASS Snippets",
+		"Sass-Director",
 		"SassBeautify",
 		"SCSS",
 		"SFTP",
+		"Stylus",
 		"Sublime Files",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"Sublimerge Pro",
 		"SublimeServer",
@@ -48,7 +55,8 @@
 	],
 	"repositories":
 	[
-		"https://github.com/airosB/sublime-multi-number-input.git"
+		"https://github.com/airosB/sublime-multi-number-input.git",
+		"https://github.com/MaciekBaron/sublime-list-stylesheet-vars.git"
 	],
 	"repository_channels":
 	[
