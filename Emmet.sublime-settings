@@ -2,7 +2,9 @@
   "snippets": {
     "html": {
       "abbreviations": {
-        "paging": ".pagination>.wp-pagenavi>span.previouspostslink{&lt;}+span.current+a[href=#]*4+span.nextpostslink{&gt;}"
+        "paging": ".pagination>.wp-pagenavi>span.previouspostslink{&lt;}+span.current+a[href=#]*4+span.nextpostslink{&gt;}",
+        "view" : "<meta name='viewport' content='width=device-width; initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no' />",
+        "noindex" : "<meta name='robots' content='noindex,nofollow' />"
       }
     },
     "css": {
