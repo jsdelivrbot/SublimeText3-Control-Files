@@ -6,6 +6,16 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"cdnjs",
+		"Dotfiles Syntax Highlighting",
+		"eCSStractor",
+		"Emmet",
+		"FindKeyConflicts",
+		"Jade Build",
+		"Jade Snippets",
 		"jQuery",
 		"Sass",
 		"Vintage"
