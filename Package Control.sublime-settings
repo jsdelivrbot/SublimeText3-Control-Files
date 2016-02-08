@@ -7,10 +7,16 @@
 	[
 		"Alignment",
 		"Better CoffeeScript",
+		"Emmet",
 		"Handlebars",
 		"Package Control",
 		"SFTP",
 		"Sublime-KnockoutJS-Snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Theme - Glacier",
 		"Theme - itg.flat",
 		"W3CValidators"
