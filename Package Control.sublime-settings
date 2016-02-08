@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Better CoffeeScript",
 		"Handlebars",
 		"Package Control",
+		"SFTP",
 		"Sublime-KnockoutJS-Snippets",
 		"Theme - Glacier",
 		"Theme - itg.flat",
