@@ -8,7 +8,7 @@
 	// swap the keybindings for paste and paste_and_indent
 	{ "keys": ["super+v"], "command": "paste_and_indent" },
 	{ "keys": ["super+shift+v"], "command": "paste" },
-	{ "keys": ["shift+ctrl+a"], "command": "alignment" }
+	{ "keys": ["shift+ctrl+a"], "command": "alignment" },
 
 	// goto css
 	// {
@@ -19,4 +19,8 @@
 	// 	"keys": ["super+shift+left"],  "command": "goto_css_declaration",
 	// 	"args": {"goto": "prev"}
 	// }
+
+	// goto function
+	{ "keys": ["command+f", "command+f"], "command": "goto_definition" },
+	{ "keys": ["command+f", "command+b"], "command": "jump_back"}
 ]
