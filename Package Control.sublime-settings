@@ -7,8 +7,11 @@
 	[
 		"Alignment",
 		"Better CoffeeScript",
+		"DocBlockr",
 		"Emmet",
+		"GitGutter",
 		"Handlebars",
+		"Increment Selection",
 		"Package Control",
 		"SCSS",
 		"SFTP",
@@ -18,8 +21,11 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SyncedSideBar",
 		"Theme - Glacier",
 		"Theme - itg.flat",
+		"TodoReview",
+		"Underscorejs snippets",
 		"W3CValidators"
 	],
 	"repositories":
