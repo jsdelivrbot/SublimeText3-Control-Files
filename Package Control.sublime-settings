@@ -6,12 +6,18 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AutoFileName",
 		"Better CoffeeScript",
+		"BracketHighlighter",
+		"cdnjs",
+		"Codecs33",
+		"ConvertToUTF8",
 		"Emmet",
 		"GitGutter",
 		"Handlebars",
 		"Increment Selection",
 		"Package Control",
+		"Project Manager",
 		"SCSS",
 		"SFTP",
 		"Sublime-KnockoutJS-Snippets",

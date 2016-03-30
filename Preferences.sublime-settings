@@ -1,4 +1,5 @@
 {
+	"afn_template_languages": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"draw_white_space": "all",
@@ -7,7 +8,6 @@
 	"ignored_packages":
 	[
 		"All Autocomplete",
-		"AutoFileName",
 		"BracketHighlighter",
 		"cdnjs",
 		"Dotfiles Syntax Highlighting",
