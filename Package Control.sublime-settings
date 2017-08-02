@@ -12,10 +12,12 @@
 		"cdnjs",
 		"Codecs33",
 		"ConvertToUTF8",
+		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"Handlebars",
 		"Increment Selection",
+		"InputSequence",
 		"Jade",
 		"List stylesheet variables",
 		"Package Control",
@@ -37,11 +39,14 @@
 		"Theme - Glacier",
 		"Theme - itg.flat",
 		"TodoReview",
+		"TypeScript",
 		"Underscorejs snippets",
+		"Vue Syntax Highlight",
 		"W3CValidators"
 	],
 	"repositories":
 	[
-		"https://github.com/airosB/sublime-multi-number-input"
+		"https://github.com/airosB/sublime-multi-number-input",
+		"https://github.com/kazu1107/InputSequence.git"
 	]
 }

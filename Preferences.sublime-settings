@@ -1,4 +1,5 @@
 {
+	"afn_insert_width_first": true,
 	"afn_template_languages": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
@@ -22,7 +23,6 @@
 	"line_padding_top": 5,
 	"tab_size": 2,
 	"theme": "Glacier.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
+	"translate_tabs_to_spaces": false,
 	"word_wrap": true
 }
