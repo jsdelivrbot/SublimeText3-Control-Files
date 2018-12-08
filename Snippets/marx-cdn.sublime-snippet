@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<link rel="stylesheet" href="https://cdn.rawgit.com/mblode/marx/master/css/marx.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mblode/marx/css/marx.min.css">
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cdn_marx</tabTrigger>
